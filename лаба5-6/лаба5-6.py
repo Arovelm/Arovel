@@ -1,5 +1,5 @@
-#1
-print('1 задание')
+#2
+print('2 задание')
 import random
 
 A = [random.randint(-99, 67) for _ in range(30)]
@@ -12,9 +12,9 @@ count = len(B)
 print('Массив B (четные элементы A):')
 print(' '.join(str(x) for x in B))
 print('Количество четных элементов:', count)
-#2
+#1
 print()
-print('2 задание')
+print('1 задание')
 import random
 
 A = [random.randint(-99, 67) for _ in range(30)]

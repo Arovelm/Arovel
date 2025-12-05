@@ -1,4 +1,4 @@
-﻿var A: array[1..20] of integer; i, minIndex, maxIndex, temp: integer;
+﻿var A: array[1..20] of integer; i, minIndex, maxIndex, temp:integer;
 begin
   Randomize;
   write('Исходный массив:');

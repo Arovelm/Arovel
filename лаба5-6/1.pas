@@ -1,5 +1,4 @@
-﻿program Lab1;
-var A: array[1..30] of integer; B: array[1..30] of integer; i, count:integer;
+﻿var A: array[1..30] of integer; B: array[1..30] of integer; i,count:integer;
 begin
   Randomize;
   count:=0;
